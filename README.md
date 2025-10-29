@@ -1,7 +1,7 @@
 # student_performance_tracker
 
 Aplikasi Sederhana untuk mengelola data mahasiswa, presensi, dan nilai. Kemudian ada laporan Markdown + HTML menggunakan rich pdoc.
-Karena .venv dan __pycache__ tidak dapat dimuat dalam git 
+Beberapa modul seperti .venv dan __pycache__ tidak dapat dimuat dalam git.
 
 ## Cara jalankan
 
