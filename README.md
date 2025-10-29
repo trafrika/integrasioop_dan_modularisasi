@@ -18,9 +18,10 @@ Beberapa modul seperti .venv dan __pycache__ tidak dapat dimuat dalam git.
 5. Keluaran: out/report.md dan out/report.html
 
 # Struktur
-- data/: berisi CSV attendance.csv & grades.csv
+- app.py  : File utama aplikasi
+- data/   : berisi CSV attendance.csv & grades.csv
 - tracker/: paket berisi model dan report
-- out/: hasil report.md dan report.html
+- out/    : hasil report.md dan report.html
 
 
 
